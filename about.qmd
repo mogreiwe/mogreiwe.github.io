@@ -18,12 +18,4 @@ about:
       href: https://scholar.google.com
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
-
-## Education
-
-Where I studied
-
-## Experience
-
-What I've done
+I'm a first year graduate student at the Economics Department at Brown University. In my research, I'm interested in the topics of Financial Stability, Macroprudential Policy, as well as Monetary Economics.
